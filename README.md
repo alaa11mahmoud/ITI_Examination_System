@@ -7,6 +7,14 @@ This project aims to analyze key aspects of the training structure at the Inform
 impact on student performance.
 4 The coverage of training topics for each subject and the student's evaluation of them.
 
+# Steps
+1- Project case study
+2- Create an ERD model
+3- Create mapping
+4- Build a basic application to enter data into the database
+5- Convert the database to DWH for use in analytics and reports
+6- Extract insights and build dashboards 
+
 # Main Features
 Each instructor teaches only one subject. A teacher may teach the same subject in multiple branches. Each branch is assigned one teacher per subject. The project focuses heavily on: The examination system: performance, structure, and results. Subject coverage: The quality of the subjects distributed and taught across the branches.
 
