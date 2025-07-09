@@ -8,7 +8,7 @@ impact on student performance.
 4 The coverage of training topics for each subject and the student's evaluation of them.
 
 # Steps
-1- Project case study
+1- Project case study \n
 2- Create an ERD model
 3- Create mapping
 4- Build a basic application to enter data into the database
